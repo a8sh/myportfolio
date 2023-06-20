@@ -21,7 +21,7 @@ export default function About() {
 						<article className='about__card'>
 							<HiAcademicCap className='about__icon' />
 							<h5>Current Education</h5>
-							<small>Final Year BTech undergrad</small>
+							<small>Final Year B-Tech undergrad</small>
 						</article>
 						<article className='about__card'>
 							<FaUserCheck className='about__icon' />
