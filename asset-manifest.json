@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.5f5e08cc.css",
+    "main.js": "/myportfolio/static/js/main.38ae216f.js",
+    "static/media/foodies.png": "/myportfolio/static/media/foodies.e64b4de9dee8d6011415.png",
+    "static/media/newsapp.png": "/myportfolio/static/media/newsapp.b21a890b3afad90f937c.png",
+    "static/media/spotifyimg.png": "/myportfolio/static/media/spotifyimg.783be71ec1bba8368c25.png",
+    "static/media/ecell.png": "/myportfolio/static/media/ecell.28e2af91c7076b4b1683.png",
+    "static/media/cv.pdf": "/myportfolio/static/media/cv.3ad85654badae4104703.pdf",
+    "static/media/me.png": "/myportfolio/static/media/me.1cd65e9fc6ad1cde53c2.png",
+    "static/media/me-about.jpeg": "/myportfolio/static/media/me-about.31c65a49f677b20287d0.jpeg",
+    "static/media/portfolio4.jpg": "/myportfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/coc.jpg": "/myportfolio/static/media/coc.540318213ea442939b80.jpg",
+    "static/media/textUtils.png": "/myportfolio/static/media/textUtils.5d5ebb326ff070d9f442.png",
+    "static/media/internshala.jpg": "/myportfolio/static/media/internshala.9e9c3a77e26bc4347355.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.5f5e08cc.css.map": "/myportfolio/static/css/main.5f5e08cc.css.map",
+    "main.38ae216f.js.map": "/myportfolio/static/js/main.38ae216f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5e08cc.css",
+    "static/js/main.38ae216f.js"
+  ]
+}
