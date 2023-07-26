@@ -5,6 +5,7 @@ import IMG2 from "../../assets/spotifyimg.png";
 import IMG3 from "../../assets/textUtils.png";
 import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/foodies.png";
+import IMG6 from "../../assets/intelliweb.png"
 
 const data=[
 	{
@@ -44,10 +45,10 @@ const data=[
 	},
 	{
 		id:6,
-		image:IMG4,
-		title:'Demo---',
-		github:'https;//github.com',
-		demo:'https://dribbble.com/shots/17315290-CloserMusic'
+		image:IMG6,
+		title:'IntelliWeb',
+		github:'https://github.com/a8sh/IntelliWeb',
+		demo:'https://intelli-web.vercel.app/'
 	}
 ]
 
